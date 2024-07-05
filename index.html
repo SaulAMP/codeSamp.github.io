@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página Embevida a Tamaño Completo</title>
+    <title>Code</title>
     <style>
         body, html {
             margin: 0;
@@ -19,6 +19,15 @@
     </style>
 </head>
 <body>
-    <iframe src="https://fenixis.co/"></iframe>
+    <iframe id="myIframe" src="https://fenixis.co"></iframe>
+    <script>
+        document.getElementById('myIframe').onload = function() {
+            var iframe = document.getElementById('myIframe').contentWindow;
+            var links = iframe.document.getElementsByTagName('a');
+            for (var i = 0; i < links.length; i++) {
+                links[i].setAttribute('target', '_blank');
+            }
+        };
+    </script>
 </body>
 </html>
