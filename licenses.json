@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "data": {
+        "id": 773,
+        "order_id": 2776,
+        "product_id": 2110,
+        "user_id": "8",
+        "license_key": "ONKI-XYRX-TQZA-KXME",
+        "valid_for": null,
+        "expires_at": "2025-11-15 14:24:20",
+        "source": 1,
+        "status": 5,
+        "activations_limit": null,
+        "created_at": "2024-05-15 14:24:20",
+        "created_by": null,
+        "updated_at": "2025-06-15 16:12:25",
+        "updated_by": null,
+        "times_activated": 0,
+        "is_expired": false,
+        "activations": []
+    }
+}
