@@ -2,7 +2,7 @@
     "success": true,
     "data": {
         "id": 773,
-        "order_id": null,
+        "order_id": "",
         "product_id": 2110,
         "user_id": "8",
         "license_key": "ONKI-XYRX-TQZA-KXME",
