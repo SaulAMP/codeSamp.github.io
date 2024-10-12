@@ -1,0 +1,230 @@
+{
+    "id": 2776,
+    "parent_id": 0,
+    "status": "completed",
+    "currency": "USD",
+    "version": "8.6.1",
+    "prices_include_tax": false,
+    "date_created": "2024-05-15T08:24:15",
+    "date_modified": "2024-05-15T08:26:03",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "7.50",
+    "total_tax": "0.00",
+    "customer_id": 8,
+    "order_key": "wc_order_SwGERjJqHIMme",
+    "billing": {
+        "first_name": "Grupo",
+        "last_name": "Verzay",
+        "company": "",
+        "address_1": "",
+        "address_2": "",
+        "city": "",
+        "state": "",
+        "postcode": "",
+        "country": "CO",
+        "email": "grupoverzay@gmail.com",
+        "phone": "+573215928548"
+    },
+    "shipping": {
+        "first_name": "",
+        "last_name": "",
+        "company": "",
+        "address_1": "",
+        "address_2": "",
+        "city": "",
+        "state": "",
+        "postcode": "",
+        "country": "",
+        "phone": ""
+    },
+    "payment_method": "stripe_cc",
+    "payment_method_title": "MasterCard terminada en 0917",
+    "transaction_id": "ch_3PGikfC21DagV9ex04abZ3l9",
+    "customer_ip_address": "2800:e2:417f:f86d:6d95:8c73:19e3:8feb",
+    "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36 Edg\/124.0.0.0",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": "2024-05-15T08:26:03",
+    "date_paid": "2024-05-15T08:24:19",
+    "cart_hash": "29a5df18348c1f4274772c2891a3731f",
+    "number": "2776",
+    "meta_data": [
+        {
+            "id": 61848,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 61850,
+            "key": "_thwcfe_ship_to_billing",
+            "value": "1"
+        },
+        {
+            "id": 61851,
+            "key": "billing_phone",
+            "value": "+573215928548"
+        },
+        {
+            "id": 61852,
+            "key": "_wc_order_attribution_source_type",
+            "value": "typein"
+        },
+        {
+            "id": 61853,
+            "key": "_wc_order_attribution_utm_source",
+            "value": "(direct)"
+        },
+        {
+            "id": 61854,
+            "key": "_wc_order_attribution_session_entry",
+            "value": "https:\/\/app.kevinlr.com\/"
+        },
+        {
+            "id": 61855,
+            "key": "_wc_order_attribution_session_start_time",
+            "value": "2024-05-15 14:18:28"
+        },
+        {
+            "id": 61856,
+            "key": "_wc_order_attribution_session_pages",
+            "value": "16"
+        },
+        {
+            "id": 61857,
+            "key": "_wc_order_attribution_session_count",
+            "value": "1"
+        },
+        {
+            "id": 61858,
+            "key": "_wc_order_attribution_user_agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36 Edg\/124.0.0.0"
+        },
+        {
+            "id": 61859,
+            "key": "_wc_order_attribution_device_type",
+            "value": "Desktop"
+        },
+        {
+            "id": 61915,
+            "key": "_payment_intent_id",
+            "value": "pi_3PGikfC21DagV9ex02x2R1K2"
+        },
+        {
+            "id": 61916,
+            "key": "_payment_method_token",
+            "value": "pm_1PGikbC21DagV9exPqtoffht"
+        },
+        {
+            "id": 61917,
+            "key": "_wc_stripe_mode",
+            "value": "live"
+        },
+        {
+            "id": 61923,
+            "key": "_stripe_currency",
+            "value": "USD"
+        },
+        {
+            "id": 61924,
+            "key": "_stripe_fee",
+            "value": "0.63"
+        },
+        {
+            "id": 61925,
+            "key": "_stripe_net",
+            "value": "6.87"
+        },
+        {
+            "id": 61926,
+            "key": "_wc_stripe_charge_status",
+            "value": "succeeded"
+        },
+        {
+            "id": 61930,
+            "key": "dlm_order_complete",
+            "value": "1"
+        },
+        {
+            "id": 61931,
+            "key": "_alg_wc_order_status_change_history",
+            "value": [
+                {
+                    "time": 1715761460,
+                    "from": "pending",
+                    "to": "processing"
+                },
+                {
+                    "time": 1715761564,
+                    "from": "processing",
+                    "to": "completed"
+                }
+            ]
+        }
+    ],
+    "line_items": [
+        {
+            "id": 1119,
+            "name": "WhatsApp Manager",
+            "product_id": 2110,
+            "variation_id": 0,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "7.50",
+            "subtotal_tax": "0.00",
+            "total": "7.50",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 11596,
+                    "key": "N\u00famero de WhatsApp #1",
+                    "value": "573041557643",
+                    "display_key": "N\u00famero de WhatsApp #1",
+                    "display_value": "573041557643"
+                }
+            ],
+            "sku": "",
+            "price": 7.5,
+            "image": {
+                "id": "518",
+                "src": "https:\/\/app.kevinlr.com\/wp-content\/uploads\/2024\/02\/whatsappmanager.png"
+            },
+            "parent_name": null
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "payment_url": "https:\/\/app.kevinlr.com\/finalizar-compra\/pagar\/2776\/?pay_for_order=true&key=wc_order_SwGERjJqHIMme",
+    "is_editable": true,
+    "needs_payment": false,
+    "needs_processing": true,
+    "date_created_gmt": "2024-05-15T14:24:15",
+    "date_modified_gmt": "2024-05-15T14:26:03",
+    "date_completed_gmt": "2024-05-15T14:26:03",
+    "date_paid_gmt": "2024-05-15T14:24:19",
+    "currency_symbol": "$",
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/app.kevinlr.com\/wp-json\/wc\/v3\/orders\/2776"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/app.kevinlr.com\/wp-json\/wc\/v3\/orders"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https:\/\/app.kevinlr.com\/wp-json\/wc\/v3\/customers\/8"
+            }
+        ]
+    }
+}
