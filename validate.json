@@ -1,0 +1,35 @@
+{
+    "data": {
+        "success": true,
+        "validate": {
+            "is_pro": true,
+            "end_date": "2025-10-17T16:51:14.000Z",
+            "sk_licence_key": "WHQC-WVYK-HOVF-SYTF",
+            "day_remaining": 100,
+            "life_time": false
+        },
+        "is_subscription": false,
+        "plan_type": "Premium",
+        "sub_email": null,
+        "skey": "WHQC-WVYK-HOVF-SYTF",
+        "device_data": {
+            "skd_id": 99999,
+            "skd_fk_sk_id": 9999,
+            "skd_device_id": "RKGKUDGKUDLFAGiusgsdfblik7tgisfli7tgdf7asftgiuljsdfy8ri67ghdlfhK",
+            "skd_wa_no": "573233204340",
+            "skd_config": null,
+            "skd_archive": false,
+            "skd_created_at": "2024-10-14T16:51:14.000Z",
+            "skd_modified_at": "2024-10-14T16:51:14.000Z",
+            "skd_device_name": "Extension App",
+            "skd_removed_at": null,
+            "skd_removed_manual": false,
+            "skd_removed_manual_at": null,
+            "skd_build_version": "3.0.5"
+        },
+        "instances": [],
+        "selected": 0
+    },
+    "status": 200,
+    "timestamp": 1728955640914
+}
